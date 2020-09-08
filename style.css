@@ -1,0 +1,11 @@
+body {
+  margin: 1.5rem;
+}
+img {
+  width: 100%;
+}
+#content {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.5rem;
+}
